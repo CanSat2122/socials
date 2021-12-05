@@ -42,9 +42,9 @@ baseurl: '/socials'
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    account: 'UA-214305623-1'
-    cookieconsent: true
-    anonymizeip: true
+#    account: ''
+#    cookieconsent: true
+#    anonymizeip: true
 
 # Plausible.io Analytics (alternative to Google Analytics that does not need cookies -> no cookie consent required)
 # A config setting is required in plausible to enable tracking of the outbound links. Details described here:
