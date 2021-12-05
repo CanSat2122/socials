@@ -1,5 +1,5 @@
 # Fuse Core Theme for Jekyll - Settings
-# https://github.com/CanSat2122/socials
+# https://github.com/sligosat/socials
 
 markdown: kramdown
 permalink: pretty
@@ -28,7 +28,7 @@ robots:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://cansat2122.github.io/socials//
+url: https://sligosat.github.io/socials//
 
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
@@ -42,9 +42,9 @@ baseurl: '/socials'
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    #account: 'UA-120960520-1'
-    #cookieconsent: true
-    #anonymizeip: true
+    account: 'G-6H57QQNJQH'
+    cookieconsent: true
+    anonymizeip: true
 
 # Plausible.io Analytics (alternative to Google Analytics that does not need cookies -> no cookie consent required)
 # A config setting is required in plausible to enable tracking of the outbound links. Details described here:
@@ -52,7 +52,7 @@ ga:
 # Leave empty (just "plausible:" with subitems commented out) to disable.
 #plausible:
 plausible:
-#    domain: 'tsjensen.github.io'
+#    domain: '.'
 
 
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
@@ -134,7 +134,7 @@ links:
   - github:
       name: GitHub
       show: true
-      href: https://github.com/CanSat2122
+      href: https://github.com/sligosat
       icon: fab fa-github
   - codepen:
       name: CodePen
