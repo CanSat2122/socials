@@ -42,7 +42,7 @@ baseurl: '/socials'
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    account: 'G-6H57QQNJQH'
+    account: 'UA-214305623-1'
     cookieconsent: true
     anonymizeip: true
 
