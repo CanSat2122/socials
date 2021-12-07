@@ -12,7 +12,7 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: CIC-Sat
+name: SligoSat
 #subtitle:
 subtitle: 2021/22 CanSat Team
 
