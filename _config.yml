@@ -169,7 +169,7 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:cicsatsummerhill@gmail.com
+      href: mailto:team@sligosat.eu
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
